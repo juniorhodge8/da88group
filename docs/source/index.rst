@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+DA88 - da88.group - Casino online và cược thể thao | DA 88
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`DA88 <https://da88.group/>`_ là nhà cái hàng đầu châu Á, nổi bật với nền tảng cá cược hiện đại và dịch vụ khách hàng chuyên nghiệp. Cam kết mang đến trải nghiệm giải trí đẳng cấp và bảo mật tuyệt đối, DA88 là sự lựa chọn hàng đầu cho người chơi cá cược.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin chi tiết:
 
-.. note::
+Website: https://da88.group/
 
-   This project is under active development.
+Địa chỉ: 28 Đ. Quyết Thắng, La Khê, Hà Đông, Hà Nội, Việt Nam
 
-Contents
---------
+Email: da88.group@gmail.com
 
-.. toctree::
+Phone: 0960213159
 
-   usage
-   api
+#da88, #casino_da88, #link_da88, #nha_cai_da88
